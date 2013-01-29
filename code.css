@@ -1,0 +1,10 @@
+code {
+	display: block;
+	background-color: black;
+	color: #0f0;
+	font-family: Menlo, Courier, "Courier New";
+	font-size: 13px;
+	padding: 10px;
+	margin: 10px 10px;
+	width: 680px;
+}

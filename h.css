@@ -1,0 +1,24 @@
+h1 {	font-size: 28px;
+	line-height: 1.0em;
+	font-style: italic;
+	margin: 0 0 5px 0!important;
+	color:#fb4834;
+	padding-left: .05em;}
+
+h3 {	font-size:20px;
+	line-height: 1.0em;
+	font-style: italic;
+	margin: 0 0 5px 0!important;
+	padding-left: .05em;}
+
+h4 {
+  	font-size: 30px;
+  	line-height: 1.0em;
+  	font-style: italic;
+  	margin: 0 0 5px 0!important;
+  	color: #48A0D9;
+  	padding-left: .05em;
+  	background: 	-webkit-gradient(linear, left top, left bottom, from(#48A0D9), to(#55A580));
+	  		-webkit-background-clip: text;
+	  		-webkit-text-fill-color: transparent !important;
+}
