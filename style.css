@@ -144,6 +144,7 @@ small { font-size: 12px;}
 .header-inner {
     height:40px;
     background-color:#000;
+    border-bottom: solid 2px #fb4834;
     width:100%;
     position:fixed;
 }
